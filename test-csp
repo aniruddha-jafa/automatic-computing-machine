@@ -1,0 +1,9 @@
+<html>
+<body>
+Puzzle Test page for CSP on staging
+<p>
+
+<iframe style="border:solid 1px red" width="700" height="700" name="crossword" src="https://staging-test.amuselabs.com/pmm/crossword?id=8cfcc681&set=gandalf">
+
+</body>
+</html>
